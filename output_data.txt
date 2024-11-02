@@ -1,0 +1,2 @@
+The number of stick-slip events		Average value of friction drop		Standard deviation of friction drop	Average value of recurrence time	Standard deviation of recurrence time
+124				0.010165				0.011809				0.005460				0.004941
